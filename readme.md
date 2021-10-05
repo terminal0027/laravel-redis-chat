@@ -5,10 +5,10 @@ The application sends messages in real-time using socket.io as well as keeps the
 <b>Usually chat examples online offer public chat features. This project offers one-to-one chat!</b>
 
 # How to run the app
-	composer install
-	npm install
-	node nodejs/server.js
-	php artisan serve
+composer install
+npm install
+node nodejs/server.js
+php artisan serve
 
 Keep in mind that you need redis-server installed on your machine for the application to work.
 
@@ -16,3 +16,5 @@ Keep in mind that you need redis-server installed on your machine for the applic
 http://chat-laravel-redis.lersoft.com
 
 # Don't forget to star this repo ;)
+Happy Coding
+Thank you :)
